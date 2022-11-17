@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+    background-color: blue;
+}
+.bg-tomato{
+    background-color: rgb(250, 90, 90);
+
+}
+.text-fill{
+    -webkit-text-fill-color: rgb(255, 85, 0);
+    height: 500px;
+    width: 400px;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex {
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
